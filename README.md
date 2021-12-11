@@ -12,3 +12,7 @@ These files implement some potentially useful results, but are a work in progres
 If you use these materials please cite the paper above.
 
 Last update: December 10, 2021
+
+Summary of updates and any corrections:
+
+No changes have been made since publication.
