@@ -1,5 +1,5 @@
 # SWT_model_misspecification
-The files here accompany the paper 'Random effects misspecification in stepped wedge trials' (official citation and link to be added after publication).  
+The files here accompany the paper 'Random effects misspecification in stepped wedge trials' (http://doi.org/10.1002/sim.9326).  
 
 * Supplemental_R_code: Calculates validity and efficiency for a given SWT design and parameter settings.  
 
@@ -11,7 +11,7 @@ These files implement some potentially useful results, but are a work in progres
 
 If you use these materials please cite the paper above.
 
-Last update: December 10, 2021
+Last update: March 1, 2021
 
 Summary of updates and any corrections:
 
